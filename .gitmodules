@@ -1,0 +1,4 @@
+[submodule "settings"]
+	path = settings
+	url = git@git.rhrk.uni-kl.de:Lehre-FPGAHS2015/solution.settings.git
+	branch = master

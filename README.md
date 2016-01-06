@@ -1,4 +1,4 @@
-# solutions.polynomial.systemc
+# solution.polynomial.systemc
 Solution to task polynomial.systemc
 
 To build the solution execute the script create_solution.sh.

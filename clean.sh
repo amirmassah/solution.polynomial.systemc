@@ -1,1 +1,1 @@
-rm -rf polynomial.systemc
+rm -rf solution

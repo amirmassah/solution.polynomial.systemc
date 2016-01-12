@@ -18,8 +18,4 @@
 main
 Output.bmp
 
-xor.systemc
-polynomial.systemc
-polynomial.vhdl
-median.cpp
-median.systemc
+solution
